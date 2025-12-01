@@ -66,7 +66,7 @@ Displays:
 * Uptime and last deployed image version
 * Deployment audit logs
 
-<img width="1920" height="979" alt="Dashboard Screenshot" src="https://user-images.githubusercontent.com/your_image_placeholder.png" />
+<img width="1920" height="977" alt="image" src="https://github.com/user-attachments/assets/acdec90d-cb47-4dd7-8cec-de0540e61ece" />
 
 ---
 
