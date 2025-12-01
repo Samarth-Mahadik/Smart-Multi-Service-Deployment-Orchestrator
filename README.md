@@ -72,7 +72,7 @@ Displays:
 
 ## 📹 Demo Video
 
-🎥 [Watch Demo Video](https://www.linkedin.com/posts/samarth-mahadik-8a7965339_aws-python-streamlit-activity-7386592947229724672-9Dbg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFUJiL8Bu7meMqELvAFpli67RCHgefR5ucA)
+🎥 [Watch Demo Video](https://www.linkedin.com/posts/samarth-mahadik-8a7965339_devops-cloudcomputing-aws-activity-7401262040440377345-12li?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFUJiL8Bu7meMqELvAFpli67RCHgefR5ucA)
 
 ---
 
