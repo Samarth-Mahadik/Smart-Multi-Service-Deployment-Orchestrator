@@ -1,0 +1,12 @@
+[
+  {
+    "name": "service1",
+    "image": "mahadik225/smso-service1:v1",
+    "port": "5000:5000"
+  },
+  {
+    "name": "service2",
+    "image": "mahadik225/smso-service2:v2",
+    "port": "6000:6000"
+  }
+]

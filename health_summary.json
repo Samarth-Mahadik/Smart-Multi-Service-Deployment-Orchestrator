@@ -1,0 +1,16 @@
+[
+  {
+    "service": "service1",
+    "time": 1762960184,
+    "health": "{\"service\":\"service1\",\"status\":\"ok\"}",
+    "action": "healthy",
+    "result": "{\"service\":\"service1\",\"status\":\"ok\"}"
+  },
+  {
+    "service": "service2",
+    "time": 1762960191,
+    "health": "{\"service\":\"service2\",\"status\":\"ok\"}",
+    "action": "healthy",
+    "result": "{\"service\":\"service2\",\"status\":\"ok\"}"
+  }
+]

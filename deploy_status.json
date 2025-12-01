@@ -1,0 +1,14 @@
+[
+  {
+    "service": "service1",
+    "status": "deployed",
+    "image": "mahadik225/smso-service1:v1",
+    "timestamp": "2025-11-12 20:25:17"
+  },
+  {
+    "service": "service2",
+    "status": "deployed",
+    "image": "mahadik225/smso-service2:v2",
+    "timestamp": "2025-11-12 20:25:34"
+  }
+]
